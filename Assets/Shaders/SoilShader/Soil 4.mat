@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Soil 4
+  m_Shader: {fileID: -6465566751694194690, guid: 816fb83d5eb679b4e97e7df1dc811dea,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_21ED5F51: 1
+    - Vector1_4390ADBE: 1.09
+    - Vector1_6B3D8EE2: 1.35
+    - Vector1_73F6B7DE: 2
+    - Vector1_9939B859: 96.41
+    - Vector1_D4E12D7D: 0.61
+    m_Colors:
+    - Color_B42F6017: {r: 1, g: 1, b: 1, a: 1}
+    - Vector2_384B719F: {r: 0.3, g: 0.3, b: 0, a: 0}
+    - Vector2_40113E01: {r: 0.3, g: 0.2, b: 0, a: 0}
+    - Vector2_83873875: {r: 5, g: 5, b: 0, a: 0}
+    - Vector2_C4D32344: {r: -9.03, g: -2.48, b: 0, a: 0}
+    - Vector3_8B7BA194: {r: 0, g: -2, b: 0, a: 0}
+    - Vector3_B349C60F: {r: 0, g: -6, b: 0, a: 0}

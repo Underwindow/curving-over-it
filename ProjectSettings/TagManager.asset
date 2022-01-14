@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Slide
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - DepthOfField
+  - MapObjects
+  - Player
+  - Ignore Colliders
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: DepthOfField
+    uniqueID: 1673510115
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: VoluneLayer
+    uniqueID: 2756207697
+    locked: 0
+  - name: Background
+    uniqueID: 3343325445
+    locked: 0
+  - name: CanvasObject
+    uniqueID: 258917909
+    locked: 0
+  - name: Player
+    uniqueID: 2249080965
+    locked: 0

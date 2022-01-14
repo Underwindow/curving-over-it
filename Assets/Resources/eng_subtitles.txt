@@ -1,0 +1,176 @@
+{
+	"lines": [
+		{
+			"key": "welcome_en",
+			"line": [ 
+				"Welcome to the \"Curving Over It with Evgeny Podoynikov\".", 
+				"I think that soon you will remember the feeling of hate", 
+				"but they say that love is just one step away", 
+				"and now you have a chance to check it out.", 
+				"Let me explain why you can hear me:", 
+				"Firstly, for some reason you haven't turned off the sound yet",
+				"and secondly...", 
+				"I am here to accompany you on a difficult journey",
+				"but will you make it to the end? It's completely up to you.", 
+				"As in life, it takes a lot of patience and diligence to be successful,",
+				"keep this in mind.",
+				"Now you can try to enjoy the gameplay.",
+				"I wish you a good game!"
+			]
+		},
+		{
+			"key": "aboba",
+			"line": [ 
+				"ABOBA"
+			]
+		},
+		{
+			"key": "nelson_mandela_en",
+			"line": [ 
+				"\"The greatest glory in living lies not in never falling,",
+				"but in rising every time we fall.\"",
+				"– Nelson Mandela"
+			]
+		},
+		{
+			"key": "chem_skoree_tem_hujhe_en",
+			"line": [ 
+				"The sooner you realize the importance of patience and focus,",
+				"the worse.",
+				"I will not have enough time to enjoy your futile attempts to reach the end."
+			]
+		},
+		{
+			"key": "explanation_en",
+			"line": [ 
+				"If you're still confused about what's going on here, I'll explain.",
+				"The ball you control",
+				"is affected by a physical phenomenon called the Magnus effect.",
+				"Simply put, the rotation of the ball affects its flight path,",
+				"so in this game you can do curved shots",
+				"like banana kicks in soccer or slice shots in ping-pong.",
+				"Some of the obstacles in the game simply cannot be overcome",
+				"without using curved shots,",
+				"so you'll have to learn how to control them to get to the end."
+			]
+		},
+		{
+			"key": "loh_en",
+			"line": [ 
+				"Loser!"
+			]
+		},
+		{
+			"key": "zaderjhi_dihanie_en",
+			"line": [ 
+				"Hold your breath.",
+				"Concentrate.",
+				"Better safe than sorry.",
+				"Now, it's time to fall down."
+			]
+		},
+		{
+			"key": "s_takim_vezeniem_en",
+			"line": [ 
+				"With such luck as yours, it is better not to go out."
+			]
+		},
+		{
+			"key": "pablo",
+			"line": [ 
+				"Pablo."
+			]
+		},
+		{
+			"key": "oh_shit",
+			"line": [ 
+				"Ah Shit, Here We Go Again."
+			]
+		},
+		{
+			"key": "madness_en",
+			"line": [ 
+				"I want to quote my idol: ",
+				"\"Did I ever tell you what the definition of insanity is?",
+				"Insanity is doing the exact...",
+				"same fucking thing...",
+				"over and over again expecting...  ",
+				"shit to change...",
+				"That.    ",
+				"Is.          ",
+				"Crazy.     ",
+				"The first time somebody told me that,",
+				"I dunno, ",
+				"I thought they were bullshitting me, so,",
+				"I shot him.\""
+			]
+		},
+		{
+			"key": "davai_en",
+			"line": [ 
+				"I believe that you will succeed,",
+				"you can complete the game in less than 2 hours and get your dirty money back,",
+				"yes, that's what you want? No?             ",
+				"Okay,     ",
+				"I'm sorry."
+			]
+		},
+		{
+			"key": "tak_smotri_en",
+			"line": [ 
+				"So, look, very few people can get out of here,",
+				"but there is a chance.",
+				"In any case,",
+				"I probably already have a replica prepared.",
+				"Somethere, below."
+			]
+		},
+		{
+			"key": "molodec_en",
+			"line": [ 
+				"Well done, you got far enough, I'm proud of you,",
+				"but it's not over yet so don't relax.",
+				"Good luck."
+			]
+		},
+		{
+			"key": "1hour_en",
+			"line": [ 
+				"They say people don't change over time,",
+				"I don't agree with that,",
+				"but you make me think about it."
+			]
+		},
+		{
+			"key": "bezdarnost_en",
+			"line": [ 
+				"You are mediocre.",
+				"I'm tired of looking at these random stupid moves.",
+				"You better play tic-tac-toe."
+			]
+		},
+		{
+			"key": "nadejhda_en",
+			"line": [ 
+				"\"Hope\"           ", 
+				"– is often a delayed disappointment."
+			]
+		},
+		{
+			"key": "kucha_replik_en",
+			"line": [ 
+				"I made a bunch of remarks, but who will play this?",
+				"Hopefully I'm not the only one to listen to this whole stupid stuff."
+			]
+		},
+		{
+			"key": "z_feature_en",
+			"line": [ 
+				"Can you press the Z key?  ",
+				"You've been here long enough that I think you deserve to know about this little feature.",
+				"Don't be surprised why I didn't include this in the controls.",
+				"If the developer is dumb, then so is the game."
+			]
+		}
+	]
+}
